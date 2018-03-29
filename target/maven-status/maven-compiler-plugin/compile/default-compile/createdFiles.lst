@@ -1,0 +1,3 @@
+com\cdc\mitrais\jpa_one_to_many\App.class
+com\cdc\mitrais\jpa_one_to_many\entity\Employee.class
+com\cdc\mitrais\jpa_one_to_many\entity\Department.class
